@@ -1,0 +1,5 @@
+langkah pertama install github sesuai prosedur penginstallan
+langkha kedua isi github anda dengan username dan email
+langkah ketiga adalah mengelola repo sendiri, suatu repo dimaksudkan untuk menyimpan aset digital. setiap satu repo biasanya digunakan untuk satu kepentingan tertentu. repo yang ada di github ini juga ada dikomputer lokal pengguna.
+dengan demikian, untuk setiap repo kita mempunyai tempat penyimpanan di github maupun di komputer lokal dan keduanya tersinkronisasi. pemakai biasanya melakukan berbagai manipulasi dikomputer lokal, setelah itu mengirimkan hasilnya ke rep github
+itu yang dinamakan dengan proses push.
